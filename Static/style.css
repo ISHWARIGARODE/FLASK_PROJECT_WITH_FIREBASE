@@ -1,0 +1,21 @@
+body {
+    font-family : Arial, Sanrif;
+    background-color : #1c0229;
+    text-align: Center;
+    padding-top: 100px;
+}
+   
+.Container{
+    background-color : white;
+    border-radius : 100px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    display: inline-block;
+    padding: 40px
+
+}    
+a{display:inline-block;
+margin-top : 20px;
+text-decoration:none;
+color:#250303;
+font-weight:bold;
+}
